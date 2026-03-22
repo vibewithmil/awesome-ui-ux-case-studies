@@ -71,6 +71,8 @@
 
 ### Web Components
 1. https://21st.dev/ + Prompts
+2. https://www.designprompts.dev/
+
 
 ### News
 1. https://uibits.co/
