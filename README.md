@@ -41,6 +41,7 @@
 4. Blender
 5. https://motionarray.com/
 6. https://www.swishy.ai/
+7. https://www.draftly.space/
 
 ### Illustrations & Icons
 1. https://storytale.io/browse/
