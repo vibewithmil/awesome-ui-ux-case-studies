@@ -30,6 +30,7 @@
 14. https://maxibestof.one/
 15. https://www.designspells.com/
 16. https://library.clonify.io/ (Only figma + framer)
+17. https://www.dark.design/
 
 ### Font
 1. https://typeverything.com/
