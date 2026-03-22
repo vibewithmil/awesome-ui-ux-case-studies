@@ -40,6 +40,7 @@
 3. Spline
 4. Blender
 5. https://motionarray.com/
+6. https://www.swishy.ai/
 
 ### Illustrations & Icons
 1. https://storytale.io/browse/
