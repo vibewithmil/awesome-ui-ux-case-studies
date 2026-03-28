@@ -55,6 +55,7 @@
 8. https://pro.reactbits.dev/docs/components/agentic-ball
 9. https://rive.app/
 10. https://www.lenis.dev/showcase?filters=webgl
+11. https://github.com/penev-palemiya/StringTune-3D
 
 ### Illustrations & Icons
 1. https://storytale.io/browse/
