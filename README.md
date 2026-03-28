@@ -54,6 +54,7 @@
 7. https://www.draftly.space/
 8. https://pro.reactbits.dev/docs/components/agentic-ball
 9. https://rive.app/
+10. https://www.lenis.dev/showcase?filters=webgl
 
 ### Illustrations & Icons
 1. https://storytale.io/browse/
