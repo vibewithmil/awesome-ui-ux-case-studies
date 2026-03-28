@@ -43,6 +43,7 @@
 5. https://motionarray.com/
 6. https://www.swishy.ai/
 7. https://www.draftly.space/
+8. https://pro.reactbits.dev/docs/components/agentic-ball
 
 ### Illustrations & Icons
 1. https://storytale.io/browse/
