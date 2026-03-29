@@ -7,6 +7,9 @@
 4. https://github.com/gschema/awesome-ux
 5. https://www.awesomic.com/case-study/parcha
 
+## Concepts
+1. https://www.youtube.com/watch?v=EcbgbKtOELY
+
 ## UX Research Tools
 1. Lyssna
 2. optimalworkshop
