@@ -26,9 +26,6 @@ A curated list of UI/UX resources — case studies, research tools, design refer
 
 ---
 
-## Concepts
-1. https://www.youtube.com/watch?v=EcbgbKtOELY
-
 ## UX Research Tools
 
 - [Lyssna](https://www.lyssna.com/) — User testing platform — first-click tests, preference tests, surveys
@@ -39,7 +36,6 @@ A curated list of UI/UX resources — case studies, research tools, design refer
 
 ---
 
-## Design References
 
 ### Landing Page Collections
 
@@ -122,47 +118,6 @@ A curated list of UI/UX resources — case studies, research tools, design refer
 - [Codrops](https://tympanus.net/codrops/) — Creative front-end tutorials and demos — heavy on canvas and WebGL
 
 ---
-### Landing page collections
-1. https://godly.website/
-2. Pinterest
-3. https://www.aura.build/ + skills
-4. https://motionsites.ai/ + Prompts
-7. https://refero.design/ + MCP
-8. https://navbar.design/
-9. https://commercecream.com/
-10. https://ogfolio.com/
-11. https://www.dark.design/
-12. https://bestdesignsonx.com/
-13. https://minimal.gallery/
-14. https://maxibestof.one/
-15. https://www.designspells.com/
-16. https://library.clonify.io/ (Only figma + framer)
-17. https://www.dark.design/
-18. https://land-book.com/
-19. https://awwwards.com/
-20. https://lapa.ninja/
-21. https://landingfolio.com/
-22. https://saaslandingpage.com/
-23. https://onepagelove.com/
-24. https://siteinspire.com/
-25. https://darkmodedesign.com/
-26. https://httpster.net/
-
-### Font
-1. https://typeverything.com/
-
-### 3d Animations + Motions
-1. https://endlesstools.io/
-2. Lottiefiles
-3. https://spline.design/community
-4. Blender
-5. https://motionarray.com/
-6. https://www.swishy.ai/
-7. https://www.draftly.space/
-8. https://pro.reactbits.dev/docs/components/agentic-ball
-9. https://rive.app/
-10. https://www.lenis.dev/showcase?filters=webgl
-11. https://github.com/penev-palemiya/StringTune-3D
 
 ### Illustrations & Icons
 
@@ -205,8 +160,6 @@ A curated list of UI/UX resources — case studies, research tools, design refer
 ---
 
 ### Web Components
-1. https://21st.dev/ + Prompts
-2. https://www.designprompts.dev/
 
 
 - [21st.dev](https://21st.dev/) — AI-ready UI component library with prompt integration
