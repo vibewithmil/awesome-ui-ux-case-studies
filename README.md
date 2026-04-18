@@ -6,6 +6,7 @@
 3. https://www.youtube.com/watch?v=hx7XyA8RNIw
 4. https://github.com/gschema/awesome-ux
 5. https://www.awesomic.com/case-study/parcha
+6. https://omma.build/
 
 ## Concepts
 1. https://www.youtube.com/watch?v=EcbgbKtOELY
@@ -59,6 +60,7 @@
 9. https://rive.app/
 10. https://www.lenis.dev/showcase?filters=webgl
 11. https://github.com/penev-palemiya/StringTune-3D
+12. https://omma.build/
 
 ### Illustrations & Icons
 1. https://storytale.io/browse/
