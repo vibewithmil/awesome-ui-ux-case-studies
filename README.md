@@ -7,6 +7,7 @@
 4. https://github.com/gschema/awesome-ux
 5. https://www.awesomic.com/case-study/parcha
 6. https://omma.build/
+7. https://speculativeedu.eu/category/case-studies/
 
 ## Concepts
 1. https://www.youtube.com/watch?v=EcbgbKtOELY
