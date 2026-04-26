@@ -5,13 +5,14 @@ A curated list of UI/UX resources — case studies, research tools, design refer
 ---
 
 ## UX Case Studies
-
 - [5 Favorite UX Case Studies](https://blog.prototypr.io/5-of-my-favorite-ux-case-studies-36f4cb66686c) — Prototypr article breaking down 5 well-structured UX case studies
 - [Netflix Clone UI/UX Case Study](http://github.com/SnowScriptWinterOfCode/UI-UX-Case-Studies/tree/main/Netflix%20Clone) — GitHub repo dissecting the Netflix UI/UX design patterns
 - [UX Case Study Video](https://www.youtube.com/watch?v=hx7XyA8RNIw) — YouTube walkthrough of a full UX case study process
 - [Awesome UX (GitHub)](https://github.com/gschema/awesome-ux) — Curated GitHub list of UX articles, tools, and learning resources
 - [Parcha by Awesomic](https://www.awesomic.com/case-study/parcha) — Real client case study from Awesomic design agency
 - [Muzli Case Studies](https://muz.li/blog/) — Design inspiration blog with breakdowns of product UI decisions
+- https://omma.build/
+- https://speculativeedu.eu/category/case-studies/
 
 ---
 
@@ -27,7 +28,6 @@ A curated list of UI/UX resources — case studies, research tools, design refer
 ---
 
 ## UX Research Tools
-
 - [Lyssna](https://www.lyssna.com/) — User testing platform — first-click tests, preference tests, surveys
 - [Optimal Workshop](https://www.optimalworkshop.com/) — Card sorting, tree testing, and information architecture tools
 - [Useberry](https://www.useberry.com/) — Prototype testing with heatmaps and user flow recordings
@@ -116,6 +116,8 @@ A curated list of UI/UX resources — case studies, research tools, design refer
 - [Framer Motion](https://www.framer.com/motion/) — React animation library — spring physics and gesture support
 - [Theatre.js](https://www.theatrejs.com/) — Visual animation editor for Three.js and React Three Fiber
 - [Codrops](https://tympanus.net/codrops/) — Creative front-end tutorials and demos — heavy on canvas and WebGL
+- https://github.com/penev-palemiya/StringTune-3D
+- https://omma.build/
 
 ---
 
